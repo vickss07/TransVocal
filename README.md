@@ -16,7 +16,7 @@ TransVocal is a Python application for converting voice to text and text to voic
 ## Installation
 
 1. Clone the repository.
-2. Install required Python libraries (`pyttsx3`, `SpeechRecognition`).
+2. Install required Python libraries (`pyttsx3`, `tkinter`, `SpeechRecognition`).
 3. Run the application (`TextToSpeech.py` or `SpeechToText.py`).
 
 ## Contributing
